@@ -3,7 +3,7 @@
 ### First and Last Name:Σωτίδης Αλέξανδρος
 ### University Registration Number: dpsd19126
 ### GitHub Personal Profile: https://github.com/dpsd19126
-### Digital-Storytelling-Individual-Assignment: xxx
+### Digital-Storytelling-Individual-Assignment: https://github.com/dpsd19126/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
