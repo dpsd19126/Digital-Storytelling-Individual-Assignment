@@ -58,7 +58,53 @@
 
 
 
-Όσον αναφορά τo Unit 3 αρχικά πρόσθεσα από τις [οδηγίες](https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75) τα αρχεία της πόλης και αφού έβαλα τα κατάλληλα Τectures την δημιούργησα. Οπότε ξεκίνησα να φτιάξω τον κώνο ,να τοποθετώ τα διακοσμητικά φώτα(Point lights),τα φώτα του δρόμου(Spot lights) καθώς και τα διαφορετικά props από τα υπάρχοντα αρχεία.Παρόλα αυτά δημιούργησα και δυο δικά μου props με την βοήθεια του ProBuilder  που με βοήθησαν και στο animation.Δημιούργησα λοιπόν τα παρακάτω, ένα φανάρι και μια πινακίδα.
+Όσον αναφορά τo Unit 3 αρχικά πρόσθεσα από τις [οδηγίες](https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75) τα αρχεία της πόλης και αφού έβαλα τα κατάλληλα Τectures την δημιούργησα. Οπότε ξεκίνησα να φτιάξω τον κώνο ,
+
+
+![image](https://user-images.githubusercontent.com/100956044/227712932-943eecf8-9e9d-490e-9502-0a0b4e8751c5.png)
+
+
+
+
+να τοποθετώ τα διακοσμητικά φώτα(Point lights),
+
+
+![image](https://user-images.githubusercontent.com/100956044/227713016-d9068136-2a62-41cb-8975-9d3d9e0f4b63.png)
+
+
+
+τα φώτα του δρόμου(Spot lights) 
+
+
+
+![image](https://user-images.githubusercontent.com/100956044/227713062-03940722-5667-4523-ad90-c1d8a733a279.png)
+
+
+
+
+καθώς και τα διαφορετικά props από τα υπάρχοντα αρχεία.
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/100956044/227713142-06847cdd-0a52-4cae-be03-23f010da5cd0.png)
+
+
+
+
+
+
+
+Παρόλα αυτά δημιούργησα και δυο δικά μου props με την βοήθεια του ProBuilder  που με βοήθησαν και στο animation.Δημιούργησα λοιπόν τα παρακάτω, ένα φανάρι και μια πινακίδα.
+
+
+
+
+
+
+https://user-images.githubusercontent.com/100956044/227713177-e44d356a-e3d5-4bc2-904e-db1da3c57324.mp4
+
 
 
 
