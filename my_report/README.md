@@ -141,7 +141,17 @@ https://user-images.githubusercontent.com/100956044/227714182-ff18d537-aa3c-4df2
 https://user-images.githubusercontent.com/100956044/234213527-0b2f17ed-c10e-4ba4-a485-a32a387a0132.mp4
 
 
+
+
+Στην συνέχεια προχώρησα στο unity6 οπού αρχικά πρόσθεσα από τις οδηγίες του [6.1](https://learn.unity.com/tutorial/lesson-6-1-adding-lighting-to-the-set?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5edf24a2edbc2a001f617ef1#) τα φώτα στον διάδρομο ώστε να ομορφύνει και να γίνει πιο ευδιάκριτη  η σκηνή 
+
 ![Στιγμιότυπο οθόνης (416)](https://user-images.githubusercontent.com/100956044/235952748-d0060c0f-7a1d-4b9d-a27c-85bbcadf818c.png)
+
+
+
+
+καθώς και αντίστοιχα στο δρόμο που βοηθούν  παρακάτω την ταινία.
+
 
 ![Στιγμιότυπο οθόνης (417)](https://user-images.githubusercontent.com/100956044/235952773-f4fdc86d-026d-488c-9acf-5577b816b558.png)
 
