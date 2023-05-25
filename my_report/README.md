@@ -210,6 +210,19 @@ https://user-images.githubusercontent.com/100956044/234214070-94489e41-4f50-424d
 
 # 3rd Deliverable 
 
+Από την αρχή το animation μου ήθελα να κινηθεί γύρω από τα αθλήματα .Αρχικά επέλεξα το μπάσκετ αλλά μέσα από μια μικρή έρευνα στο [Μixamo](https://www.mixamo.com/#/) δεν βρέθηκε ο απαραίτητος αριθμός και η ποικιλία των διαθέσιμων animation οπότε κατέληξα στο ποδόσφαιρο.Δημιούργησα το set μου προσθέτοντας ένα μικρό γήπεδο ποδόσφαιρου(5Χ5) 
+
+
+
+
+![Στιγμιότυπο οθόνης (436)](https://github.com/dpsd19126/Digital-Storytelling-Individual-Assignment/assets/100956044/a94336d7-04d9-465a-a5b9-e47bb08a6434)
+
+
+
+
+καθώς και τον εξωτερικό χώρο με την εισαγωγή fields και του αυτοκίνητου.
+
+![Στιγμιότυπο οθόνης (435)](https://github.com/dpsd19126/Digital-Storytelling-Individual-Assignment/assets/100956044/3fa4bede-37ec-42ed-9c75-4fe36e2c4477)
 
 
 https://github.com/dpsd19126/Digital-Storytelling-Individual-Assignment/assets/100956044/f3412fd8-d9ae-4ec7-86a2-789df6c1584b
