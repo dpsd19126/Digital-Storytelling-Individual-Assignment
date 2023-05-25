@@ -225,6 +225,15 @@ https://user-images.githubusercontent.com/100956044/234214070-94489e41-4f50-424d
 ![Στιγμιότυπο οθόνης (435)](https://github.com/dpsd19126/Digital-Storytelling-Individual-Assignment/assets/100956044/3fa4bede-37ec-42ed-9c75-4fe36e2c4477)
 
 
+
+Στην συνέχεια κατέβασα  5 χαρακτήρες από την ίδια  ιστοσελίδα και την μπάλα από το [Sketchfab](https://sketchfab.com/feed) για να ξεκινήσω την δημιουργία του animation.
+
+
+
+![Στιγμιότυπο οθόνης (437)](https://github.com/dpsd19126/Digital-Storytelling-Individual-Assignment/assets/100956044/2b6d9d65-828c-4678-8fca-56924a065200)
+
+
+
 https://github.com/dpsd19126/Digital-Storytelling-Individual-Assignment/assets/100956044/f3412fd8-d9ae-4ec7-86a2-789df6c1584b
 
 
