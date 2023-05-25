@@ -220,7 +220,7 @@ https://user-images.githubusercontent.com/100956044/234214070-94489e41-4f50-424d
 
 
 
-καθώς και τον εξωτερικό χώρο με την εισαγωγή fields και του αυτοκίνητου.
+καθώς και τον εξωτερικό χώρο με την εισαγωγή fields και του αυτοκίνητου τα οποία βρήκα απο το Sketchfab.
 
 ![Στιγμιότυπο οθόνης (435)](https://github.com/dpsd19126/Digital-Storytelling-Individual-Assignment/assets/100956044/3fa4bede-37ec-42ed-9c75-4fe36e2c4477)
 
