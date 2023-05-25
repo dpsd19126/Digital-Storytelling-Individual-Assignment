@@ -250,11 +250,15 @@ https://user-images.githubusercontent.com/100956044/234214070-94489e41-4f50-424d
 
 
 
-Αυτό λοιπόν είναι το τελικό αποτέλεσμα:![Στιγμιότυπο οθόνης (440)](https://github.com/dpsd19126/Digital-Storytelling-Individual-Assignment/assets/100956044/479d5d5c-e450-4f88-9984-9ff5b26292ee)
+![Στιγμιότυπο οθόνης (440)](https://github.com/dpsd19126/Digital-Storytelling-Individual-Assignment/assets/100956044/479d5d5c-e450-4f88-9984-9ff5b26292ee)
 
 
 
 
+
+
+
+Αυτό λοιπόν είναι το τελικό αποτέλεσμα:
 
 https://github.com/dpsd19126/Digital-Storytelling-Individual-Assignment/assets/100956044/f3412fd8-d9ae-4ec7-86a2-789df6c1584b
 
